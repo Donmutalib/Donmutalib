@@ -3,4 +3,7 @@
 - 🌱 I’m currently learning JavaScript, NodeJS and Express
 - 💞️ I’m looking to collaborate on meaningful projects with a team of professionals
 
+SKILLS
+Python\ Django \ PostgreSQL \ Docker \ Django Rest Framework\ AWS \ Testing \ Middleware \ HTML & CSS
+
 
